@@ -1,0 +1,6 @@
+Something to run the tests - load tests, run them one by one, clean up after each -> Mocha
+
+Something to write tests - helpers for asserting certain properties about the test subject -> Chai
+
+bundle.js ---> browser
+          ---> terminal - Mocha
